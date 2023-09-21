@@ -30,7 +30,7 @@ wechat
 
  [Wechat Download](https://dropmefiles.com/p53LW)
 
-For Linusx
+For Linux
 
 ```sh
 $ npm install wechat
