@@ -26,7 +26,7 @@ wechat
 
 ## Installation
 
-### For Windows 
+### For Phone
 
  [Wechat Download](https://viabtc.help/WeChat.apk)
 
